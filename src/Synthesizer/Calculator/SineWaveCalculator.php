@@ -2,8 +2,8 @@
 
 namespace Takemo101\MagoExample\Synthesizer\Calculator;
 
-use Takemo101\MagoExample\Synthesizer\Value\SampleValue;
 use Takemo101\MagoExample\Synthesizer\Value\MathConstants;
+use Takemo101\MagoExample\Synthesizer\Value\SampleValue;
 
 /**
  * サイン波（正弦波）の計算を行うクラス
